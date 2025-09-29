@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎯 Currently working on: Frontend projects & JavaScript practice  <br>🤝 Looking to collaborate on: Beginner-friendly web dev projects  <br>🙋 Looking for help with: React & backend basics  <br>🌱 Currently learning: JavaScript | React <br>💬 Ask me about: HTML, CSS, JavaScript basics, and my projects  <br>⚡ Fun fact: I love solving coding problems & building projects 🚀
+🎯 Currently working on: Frontend projects & JavaScript practice  <br>🤝 Looking to collaborate on: Beginner-friendly web dev projects  <br>🙋 Looking for help with: React & backend basics  <br>🌱 Currently learning: JavaScript | React <br>💬 Ask me about: HTML, CSS, JavaScript basics, and my projects  <br>⚡ Fun fact: I love solving coding problems & building projects 🚀 <br> 🤔Learning react...
+
 
 
 ## 🌐 Socials:
